@@ -45,7 +45,7 @@
 	The short answer is: just add a target="_blank" attribute to your links (anchor tags). 
 
     14. What is the alt attribute used for? 
-	?
+	it is used to read alloud what is displaying on the screen ( for people with disabilities such as being blind )
 
     15. How do I reference an id?
 	#
